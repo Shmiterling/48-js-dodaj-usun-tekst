@@ -1,0 +1,26 @@
+button {
+  cursor: pointer;
+}
+h1 {
+  text-align: center;
+}
+button {
+  border: none;
+  padding: 15px 30px;
+  font-size: 20px;
+  border-radius: 15px;
+}
+#dodaj {
+  background-color: rgb(49, 173, 90);
+  color:white;
+}
+#usun {
+ background-color: rgb(141, 40, 40);
+ color: white;
+}
+#dodaj:hover {
+  background-color:rgb(39, 145, 74);
+}
+#usun:hover {
+  background-color: rgb(128, 36, 36);
+}
